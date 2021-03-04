@@ -1,0 +1,7 @@
+.info-box {
+    flex: 1;
+}
+
+.info-box:not(:last-child) {
+    margin-right: 10px;
+}
