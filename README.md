@@ -1,3 +1,3 @@
 # Live Covid-19 tracker
 
-This was created to track Covid-19 cases, deaths and recovers. Based on Clever Programmer YouTube channel's related tutorial.
+This was created to track Covid-19 cases, deaths and recovers.
